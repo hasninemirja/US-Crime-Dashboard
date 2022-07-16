@@ -1,5 +1,5 @@
 
-# :oncoming_police_car:  Crime Dashboard - Project 3 :oncoming_police_car: 
+# :oncoming_police_car:  Crime Dashboard:oncoming_police_car: 
 
 ** Hasnine Mirza  **
 <br>
